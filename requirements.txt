@@ -1,0 +1,7 @@
+# 运行环境（Python 3.8）
+# 训练与推理：
+torch==1.13.0
+numpy==1.23.4
+gym==0.23.1
+# 训练日志（可选：缺失时自动跳过 TensorBoard 记录）：
+tensorboard

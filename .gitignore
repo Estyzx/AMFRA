@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+runs/
+*.log
+schedule.json
+.msys*
+.env
+.env.*
